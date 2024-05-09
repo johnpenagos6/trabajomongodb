@@ -3,21 +3,21 @@
     "$oid": "61d74d8233c9f0547630c563"
   },
   "Posición": 1,
-  "Equipo": "Deportivo Cali",
-  "Partidos Jugados": 2,
-  "Victorias": 1,
+  "Equipo": "Warriors",
+  "Partidos Jugados": 4,
+  "Victorias": 4,
   "Empates": 0,
   "Derrotas": 0,
-  "Puntos": 6
+  "Puntos": 8
 },
 {
   "_id": {
     "$oid": "61d74da233c9f0547630c564"
   },
   "Posición": 2,
-  "Equipo": "Millonarios",
-  "Partidos Jugados": 2,
-  "Victorias": 0,
+  "Equipo": "Lakers",
+  "Partidos Jugados": 4,
+  "Victorias": 2,
   "Empates": 0,
   "Derrotas": 0,
   "Puntos": 0

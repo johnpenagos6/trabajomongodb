@@ -1,9 +1,8 @@
 #! Crear base de datos
-use relampagobaloncesto
+use torneobaloncesto1vs1
 
 #! Crear colecciones
 db.createCollection("deportistas")
-db.createCollection("entrenadores")
 db.createCollection("equipos")
 db.createCollection("arbitros")
 db.createCollection("encuentros")

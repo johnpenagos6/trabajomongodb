@@ -1,66 +1,41 @@
 [{
   "_id": {
-    "$oid": "65564657922f1ece3dfc70bb"
+    "$oid": "dep10001"
   },
-  "Nombres": "Esteban",
-  "Apellidos": "Mondragon",
-  "Edad": 23,
-  "Cedula": 1020813212,
-  "Celular": {
-    "$numberLong": "3007802123"
+  "Nombre": "Esteban Rojas",
+  "Edad" : 22,
+  "Genero": "Masculino",
+  "Equipo": "Los Angeles Lakers",
+  "Nacionalidad": "Estadounidense"
+},
+
+{
+  "_id": {
+    "$oid": "dep10002"
   },
-  "Equipo": "Millonarios",
-  "Nacionalidad": "Colombiano",
-  "Ciudad": "Bogotá",
-  "Ranking": "7.8"
+  "Nombre": "Stephen Curry",
+  "Edad" : 22,
+  "Genero": "Masculino",
+  "Equipo": "Warriors",
+  "Nacionalidad": "Estadounidense"
 },
 {
   "_id": {
-    "$oid": "65564696922f1ece3dfc70bd"
+    "$oid": "dep10003"
   },
-  "Nombres": "Mario Alberto",
-  "Apellidos": "Yepez",
-  "Edad": 25,
-  "Cedula": {
-    "$numberLong": "10208132412"
-  },
-  "Celular": {
-    "$numberLong": "3007802123"
-  },
-  "Equipo": "Deportivo Cali",
-  "Nacionalidad": "Colombiano",
-  "Ciudad": "Cali",
-  "Ranking": "8.3"
+  "Nombre": "Kawhi Leonard",
+  "Edad" : 25,
+  "Genero": "Masculino",
+  "Equipo": "Clipers",
+  "Nacionalidad": "Estadounidense"
 },
 {
   "_id": {
-    "$oid": "6556479a922f1ece3dfc70bf"
+    "$oid": "dep10004"
   },
-  "Nombres": "Daniel",
-  "Apellidos": "Jaramillo",
-  "Edad": 21,
-  "Cedula": 1061425104,
-  "Celular": {
-    "$numberLong": "3007802104"
-  },
-  "Equipo": "Deportivo Cali",
-  "Nacionalidad": "Colombiano",
-  "Ciudad": "Popayan",
-  "Ranking": "7.6"
-},
-{
-  "_id": {
-    "$oid": "655648b3922f1ece3dfc70c1"
-  },
-  "Nombres": "Carlos Andres",
-  "Apellidos": "Poveda Rey",
-  "Edad": 27,
-  "Cedula": 1060642048,
-  "Celular": {
-    "$numberLong": "3007802123"
-  },
-  "Equipo": "Millonarios",
-  "Nacionalidad": "Colombiano",
-  "Ciudad": "Medellin",
-  "Ranking": "8"
+  "Nombre": "Kirye Irving",
+  "Edad" : 32,
+  "Genero": "Masculino",
+  "Equipo": "Dallas mavericks",
+  "Nacionalidad": "Estadounidense"
 }]

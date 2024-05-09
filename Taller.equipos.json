@@ -1,16 +1,32 @@
 [{
   "_id": {
-    "$oid": "61d74d8233c9f0547630c563"
+    "$oid": "equip1"
   },
-  "Nombre": "Deportivo Cali",
-  "Ciudad": "Cali",
-  "Año": 1912
+  "Nombre": "Los Angeles Lakers",
+  "Ciudad": "Los Angeles",
+  "Año": 2000
 },
 {
   "_id": {
-    "$oid": "61d74da233c9f0547630c564"
+    "$oid": "equip2"
   },
-  "Nombre": "Millonarios",
-  "Ciudad": "Bogotá",
-  "Año": 1946
+  "Nombre": "Warriors",
+  "Ciudad": "San Francisco",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "equip3"
+  },
+  "Nombre": "Clipers",
+  "Ciudad": "Los Angeles",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "equip4"
+  },
+  "Nombre": "Dallas Mavericks",
+  "Ciudad": "Dallas",
+  "Año": 2000
 }]

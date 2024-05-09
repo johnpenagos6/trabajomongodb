@@ -1,26 +1,26 @@
 [{
   "_id": {
-    "$oid": "655630f5922f1ece3dfc7090"
+    "$oid": "encu0001"
   },
-  "Fecha": "10/12/2023",
+  "Fecha": "09/05/2024",
   "Hora": "8:00 am",
-  "Lugar": "Pascual Guerrero",
-  "Equipo Local": "Deportivo Cali",
-  "Equipo Visitante": "Millonarios",
-  "Estado": "Jugado",
-  "Resultado Final": "Victoria Local",
-  "Arbitro": "Wilmar Roldan"
+  "Lugar": "Ensueño coliseum",
+  "Equipo Local": "lakers",
+  "Equipo Visitante": "clipers",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Guillermo Malaver"
 },
 {
   "_id": {
-    "$oid": "6556316f922f1ece3dfc7092"
+    "$oid": "encu0002"
   },
-  "Fecha": "15/12/2023",
-  "Hora": "8:00 am",
-  "Lugar": "Nemesio Camacho",
-  "Equipo Local": "Millonarios",
-  "Equipo Visitante": "Deportivo Cali",
-  "Estado": "Jugado",
-  "Resultado Final": "Victoria Visitante",
-  "Arbitro": "Facundo Tello"
+  "Fecha": "10/05/2024",
+  "Hora": "5:00 pm",
+  "Lugar": "El barrio",
+  "Equipo Local": "warriors",
+  "Equipo Visitante": "Dallas mavericks",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Yovanny Hernandez"
 }]

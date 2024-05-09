@@ -1,52 +1,24 @@
 [{
   "_id": {
-    "$oid": "65562e6c922f1ece3dfc7087"
+    "$oid": "arb1001"
   },
-  "Nombres": "Wimar",
-  "Apellidos": "Roldan",
-  "Edad": 32,
-  "Cedula": 10527414,
-  "Celular": {
-    "$numberLong": "3124127894"
-  },
+  "Nombre": "John Penagos",
+  "Edad": 21,
   "Nacionalidad": "Colombiano"
 },
 {
   "_id": {
-    "$oid": "65562ec9922f1ece3dfc7089"
+    "$oid": "arb1002"
   },
-  "Nombres": "Nicolas",
-  "Apellidos": "Gallo",
-  "Edad": 35,
-  "Cedula": 25707252,
-  "Celular": {
-    "$numberLong": "3221471542"
-  },
-  "Nacionalidad": "Paraguayo"
+  "Nombres": "Guillermo Malaver",
+  "Edad": 25,
+  "Nacionalidad": "Colombiano"
 },
 {
   "_id": {
-    "$oid": "65562f2a922f1ece3dfc708b"
+    "$oid": "arb1003"
   },
-  "Nombres": "Daniele",
-  "Apellidos": "Orsato",
-  "Edad": 35,
-  "Cedula": 351241214,
-  "Celular": {
-    "$numberLong": "3214127412"
-  },
-  "Nacionalidad": "Italiano"
-},
-{
-  "_id": {
-    "$oid": "65562f94922f1ece3dfc708d"
-  },
-  "Nombres": "Facundo",
-  "Apellidos": "Tello",
-  "Edad": 30,
-  "Cedula": 1061754124,
-  "Celular": {
-    "$numberLong": "3109631475"
-  },
-  "Nacionalidad": "Argentino"
+  "Nombres": "Yovanny Hernandez",
+  "Edad": 22,
+  "Nacionalidad": "Colombiano"
 }]
