@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "65563215922f1ece3dfc7095"
+  },
+  "Nombres": "Leonel",
+  "Apellidos": "Alvarez",
+  "Edad": 45,
+  "Cedula": 25410235,
+  "Celular": {
+    "$numberLong": "3202541425"
+  },
+  "Equipo": "Deportivo Cali",
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "6556329b922f1ece3dfc7097"
+  },
+  "Nombres": "Orlando",
+  "Apellidos": "Rojas",
+  "Edad": 59,
+  "Cedula": 10527141,
+  "Celular": 1024102101,
+  "Equipo": "Millonarios",
+  "Nacionalidad": "Colombiano"
+}]
