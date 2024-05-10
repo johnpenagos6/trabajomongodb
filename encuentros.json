@@ -1,0 +1,67 @@
+[
+  {
+  "_id": {
+    "$oid": "E00000000000000000000001"
+  },
+  "Fecha": "09/05/2024",
+  "Hora": "8:00 am",
+  "Lugar": "Ensueño coliseum",
+  "Equipo Local": "lakers",
+  "Equipo Visitante": "clipers",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Guillermo Malaver"
+},
+{
+  "_id": {
+    "$oid": "E00000000000000000000002"
+  },
+  "Fecha": "10/05/2024",
+  "Hora": "5:00 pm",
+  "Lugar": "El barrio",
+  "Equipo Local": "warriors",
+  "Equipo Visitante": "Dallas mavericks",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Yovanny Hernandez"
+},
+{
+  "_id": {
+    "$oid": "E00000000000000000000003"
+  },
+  "Fecha": "10/05/2024",
+  "Hora": "5:00 pm",
+  "Lugar": "Ensueño coliseum",
+  "Equipo Local": "warriors",
+  "Equipo Visitante": "Dallas mavericks",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Yovanny Hernandez"
+},
+{
+  "_id": {
+    "$oid": "E00000000000000000000004"
+  },
+  "Fecha": "10/05/2024",
+  "Hora": "5:00 pm",
+  "Lugar": "El barrio",
+  "Equipo Local": "Boston Celtics",
+  "Equipo Visitante": "Dallas mavericks",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Alejandro Lopez"
+},
+{
+  "_id": {
+    "$oid": "E00000000000000000000005"
+  },
+  "Fecha": "10/05/2024",
+  "Hora": "5:00 pm",
+  "Lugar": "Ensueño coliseum",
+  "Equipo Local": "warriors",
+  "Equipo Visitante": "Clipers",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitro": "Pedro Benitez"
+}
+]

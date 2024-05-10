@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "B00000000000000000000001"
+  },
+  "Posición": 1,
+  "Equipo": "Warriors",
+  "Partidos Jugados": 4,
+  "Victorias": 4,
+  "Empates": 0,
+  "Derrotas": 0,
+  "Puntos": 8
+},
+{
+  "_id": {
+    "$oid": "B00000000000000000000002"
+  },
+  "Posición": 2,
+  "Equipo": "Los Angeles Lakers",
+  "Partidos Jugados": 4,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 0,
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "B00000000000000000000003"
+  },
+  "Posición": 2,
+  "Equipo": "Clipers",
+  "Partidos Jugados": 4,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 0,
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "B00000000000000000000004"
+  },
+  "Posición": 2,
+  "Equipo": "Dallas Mavericks",
+  "Partidos Jugados": 4,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 0,
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "B00000000000000000000005"
+  },
+  "Posición": 2,
+  "Equipo": "Boston Celtics",
+  "Partidos Jugados": 4,
+  "Victorias": 2,
+  "Empates": 0,
+  "Derrotas": 0,
+  "Puntos": 0
+}]
