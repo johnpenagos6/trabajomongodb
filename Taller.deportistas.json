@@ -1,8 +1,8 @@
 [{
   "_id": {
-    "$oid": "dep10001"
+    "$oid": "DEP000000000000000000001"
   },
-  "Nombre": "Esteban Rojas",
+  "Nombre": "Lebron James",
   "Edad" : 22,
   "Genero": "Masculino",
   "Equipo": "Los Angeles Lakers",
@@ -11,7 +11,7 @@
 
 {
   "_id": {
-    "$oid": "dep10002"
+    "$oid": "DEP000000000000000000002"
   },
   "Nombre": "Stephen Curry",
   "Edad" : 22,
@@ -21,7 +21,7 @@
 },
 {
   "_id": {
-    "$oid": "dep10003"
+    "$oid": "DEP000000000000000000003"
   },
   "Nombre": "Kawhi Leonard",
   "Edad" : 25,
@@ -31,7 +31,7 @@
 },
 {
   "_id": {
-    "$oid": "dep10004"
+    "$oid": "DEP000000000000000000004"
   },
   "Nombre": "Kirye Irving",
   "Edad" : 32,
