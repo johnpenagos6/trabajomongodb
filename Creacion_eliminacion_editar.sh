@@ -4,9 +4,9 @@ db.periodoTorneo.insert({"Fecha Inicial":"09/05/2024","Fecha Final":"09/07/2024"
 #! b. Inscribir, modificar y eliminar equipos.
 db.equipos.insert({"Nombre":"Los Angeles Lakers","Ciudad":"chicago")
 
-db.equipos.update({_id:ObjectId("EQP000000000000000000002")}, {$set:{"Ciudad":"Los angeles"}})
+db.equipos.update({_id:ObjectId("F00000000000000000000002")}, {$set:{"Ciudad":"Los angeles"}})
 
-db.equipos.deleteOne({"_id": ObjectId("EQP000000000000000000002")})
+db.equipos.deleteOne({"_id": ObjectId("F00000000000000000000002")})
 
 #! c.Inscribir, modificar y eliminar deportistas a los equipos.
 db.deportistas.insert({"Nombre": "Hannona Left",
@@ -15,9 +15,9 @@ db.deportistas.insert({"Nombre": "Hannona Left",
                        "Nacionalidad": "Estadounidense",
                        "Equipo": "Celtics",})
 
-db.deportistas.update({"_id": ObjectId("DEP000000000000000000001")}, {$set: {"Nombre": "Esteban Marley"}})
+db.deportistas.update({"_id": ObjectId("D00000000000000000000001")}, {$set: {"Nombre": "Esteban Marley"}})
 
-db.deportistas.deleteOne({"_id": ObjectId("DEP000000000000000000001")})
+db.deportistas.deleteOne({"_id": ObjectId("D00000000000000000000001")})
 
 #! d.Crear, modificar  y eliminar encuentros deportivos.
 db.encuentros.insert({"Fecha": "09/05/2024",
@@ -31,14 +31,14 @@ db.encuentros.insert({"Fecha": "09/05/2024",
                            "Guillermo Malaver"
                        ]})
 
-db.encuentros.update({"_id": ObjectId("ENC000000000000000000001")},{
+db.encuentros.update({"_id": ObjectId("E00000000000000000000002")},{
                        $set: {
                                 "Estado": "Jugado",
                                 "Resultado Final": "Victoria Visitante"
                             }
                        })
 
-db.encuentros.deleteOne({"_id": ObjectId("ENC000000000000000000001")})
+db.encuentros.deleteOne({"_id": ObjectId("E00000000000000000000002")})
 
 
 #! e.Registrar resultados de eventos deportivos.
