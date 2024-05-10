@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "F00000000000000000000001"
+  },
+  "Nombre": "Los Angeles Lakers",
+  "Ciudad": "Los Angeles",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "F00000000000000000000002"
+  },
+  "Nombre": "Warriors",
+  "Ciudad": "San Francisco",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "F00000000000000000000003"
+  },
+  "Nombre": "Clipers",
+  "Ciudad": "Los Angeles",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "F00000000000000000000004"
+  },
+  "Nombre": "Dallas Mavericks",
+  "Ciudad": "Dallas",
+  "Año": 2000
+},
+{
+  "_id": {
+    "$oid": "F00000000000000000000004"
+  },
+  "Nombre": "Boston Celtics",
+  "Ciudad": "Boston",
+  "Año": 2000
+}]

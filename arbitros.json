@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "A00000000000000000000001"
+    },
+    "Nombre": "John Penagos",
+    "Edad": 21,
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "A00000000000000000000002"
+    },
+    "Nombre": "Guillermo Malaver",
+    "Edad": 25,
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "A00000000000000000000003"
+    },
+    "Nombre": "Yovanny Hernandez",
+    "Edad": 22,
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "A00000000000000000000004"
+    },
+    "Nombre": "Alejandro Lopez",
+    "Edad": 22,
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "_id": {
+      "$oid": "A00000000000000000000005"
+    },
+    "Nombre": "Pedro Benitez",
+    "Edad": 22,
+    "Nacionalidad": "Colombiano"
+  }
+]
